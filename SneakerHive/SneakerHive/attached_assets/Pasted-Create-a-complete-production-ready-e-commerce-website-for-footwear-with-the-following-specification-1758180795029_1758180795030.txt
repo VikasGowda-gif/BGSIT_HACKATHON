@@ -1,0 +1,88 @@
+Create a complete, production-ready e-commerce website for footwear with the following specifications:
+
+**PROJECT OVERVIEW:**
+Build "Footcap" - a premium footwear e-commerce platform with modern design, full functionality, and mobile-responsive layout.
+
+**TECHNICAL REQUIREMENTS:**
+- Generate separate HTML, CSS, and JavaScript files
+- Use semantic HTML5 with proper accessibility features
+- Implement modern CSS with custom properties (CSS variables)
+- Create fully functional JavaScript with ES6+ features
+- Include responsive design (mobile-first approach)
+- Add smooth animations and micro-interactions
+- Ensure cross-browser compatibility
+
+**DESIGN SPECIFICATIONS:**
+- Color Scheme: Primary coral/orange (#ff6b6b), neutral grays, white backgrounds
+- Typography: Roboto (body), Josefin Sans (headings)
+- Layout: Clean, modern, minimalist e-commerce design
+- Components: Cards, buttons, modals, notifications, forms
+- Style: Premium, professional, trustworthy brand appearance
+
+**FUNCTIONAL FEATURES TO IMPLEMENT:**
+1. **Navigation System:**
+   - Fixed header with logo and navigation
+   - Mobile hamburger menu with smooth animations
+   - Shopping cart and wishlist counters with badges
+   - Search functionality with modal interface
+
+2. **Product Catalog:**
+   - Product grid with filter buttons (All, Nike, Adidas, Puma, Bata, Apex)
+   - Product cards with hover effects and action buttons
+   - Quick view modals with product details
+   - Add to cart/wishlist functionality with animations
+
+3. **Shopping Cart:**
+   - Side-panel cart modal with item management
+   - Quantity controls and real-time total calculation
+   - Local storage persistence
+   - Visual feedback for all actions
+
+4. **Interactive Elements:**
+   - Advanced search with suggestions and results
+   - Newsletter subscription with validation
+   - Social media integration
+   - Smooth scrolling and anchor navigation
+   - Go-to-top button with scroll detection
+
+5. **User Experience:**
+   - Loading animations and state management
+   - Notification system for user feedback
+   - Keyboard navigation support (ESC to close modals)
+   - Error handling and graceful fallbacks
+
+**CONTENT STRUCTURE:**
+- Hero section with compelling headline and CTA
+- Product collections (Men, Women, Sports)
+- Featured products showcase with brand filtering
+- Call-to-action sections with promotional content
+- Features/benefits section (shipping, returns, support)
+- Footer with contact info, links, and newsletter signup
+
+**BRAND IDENTITY:**
+- Company: Footcap (Premium Footwear Store)
+- Tagline: "Find Your Perfect Footwear"
+- Products: Nike, Adidas, Puma, Bata brand shoes
+- Categories: Running, Basketball, Casual, Formal, Sports
+
+**PERFORMANCE REQUIREMENTS:**
+- Fast loading times with optimized code
+- Lazy loading for images
+- Efficient JavaScript with minimal DOM manipulation
+- Mobile performance optimization
+- SEO-friendly structure with meta tags
+
+**ACCESSIBILITY FEATURES:**
+- ARIA labels and roles
+- Keyboard navigation support
+- Screen reader compatibility
+- High contrast ratios
+- Semantic HTML structure
+
+**CODE ORGANIZATION:**
+- Modular JavaScript with clear function separation
+- CSS organized with logical sections and comments
+- HTML with proper indentation and comments
+- Consistent naming conventions throughout
+
+Generate the complete codebase with all three files (HTML, CSS, JS) that creates a fully functional, professional e-commerce website matching these specifications.
